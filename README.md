@@ -5,4 +5,4 @@
 - Calculator
 - Printing missing number in array
 
-<p> <a href="https://www.linkedin.com/in/mahsanr44"/><i> mahsanr44 <i><p>
+<p> <i>By </i><a href="https://www.linkedin.com/in/mahsanr44"/><i> mahsanr44 <i><p>
